@@ -1,0 +1,20 @@
+body {
+  font-family: ark8-regular;
+  background-color: #E9E6E1;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+/* verborgen h1, maar leesbaar voor screenreaders */
+
+.visually-hidden {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}

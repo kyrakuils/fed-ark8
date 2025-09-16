@@ -1,0 +1,26 @@
+/* fonts */
+@font-face {
+    font-family: ark8-regular;
+    src: url(../font/FKGroteskMono-Regular.ttf);
+}
+
+@font-face {
+    font-family: ark8-extralight;
+    src: url(../font/TimesNow-ExtraLight.ttf);
+}
+
+@font-face {
+    font-family: ark8-semilight;
+    src: url(../font/TimesNow-SemiLight.ttf);
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  html, body {
+    height: 100%;
+  }
+
