@@ -40,12 +40,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-<img width="1470" height="956" alt="small screen - homepage - 1" src="https://github.com/user-attachments/assets/1551eb03-0156-452b-9e63-3da44409eabb" />
+  Homepagina op small screen:  
+  <img width="750" height="9558" alt="ark8-smallscreen-homepage" src="https://github.com/user-attachments/assets/e94f338f-8fb4-4198-b500-      c157829fccf0" />
+
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Tweede pagina (detailpagina) op small screen: 
+  <img width="750" height="4515" alt="ark8-smallscreen-detailpage" src="https://github.com/user-attachments/assets/15a23614-3bbf-4cef-8cf3-418c8f5eb070" />
+
  
 </details>
 
@@ -71,14 +73,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img width="911" height="4411" alt="breakdownschets-fed" src="https://github.com/user-attachments/assets/17929f05-a671-401a-a6c6-            7f3692e47e5b" />
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
+  
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
-
+  
 </details>
 
 
@@ -111,10 +111,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Zorgen dat mijn H-elementen boven mijn images staan
+  - Zorg ervoor dat ik de Li-items na elk stukje afsluit
+  - Gebruik bij het stukje "coats & jackets", "dresses & skirts" etc. de <aside></aside) element, dat word gebruikt om te filteren
+  - "Confirm" is een button dat hoeft geen a-element te zijn
 
 </details>
 
