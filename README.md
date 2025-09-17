@@ -96,14 +96,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Agenda voor meeting
   samen met je groepje opstellen
-
-  | Patoune        | Aya                | Randi        | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
+  
+  Patoune | - Hoe ik een video erin zet en deze toegankelijk maak.      
+      Aya | - Het programmeren van de agenda functionaliteit.
+            - Het animeren van de bewegende paragraaftekst.
+            - Het stylen van de productfoto’s, inclusief de animatie op de achtergrond.
+            - Het aanpassen van het contrast van de socialmedia iconen.                
+    Randi | - Hoe ik een video erin zet en deze toegankelijk maak.        
+     Kyra | - Grid (afbeeldingen en tekst responsive krijgen).
+            - Hoe ik een kleine animatie krijg van iets wat geen afbeelding is. 
+            - Hoe ik bepaalde afbeeldingen en tekst kan aanspreken die in een section zitten.
+            - Hoe ik mijn achtergrond video toegankelijk maak.
+  
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
